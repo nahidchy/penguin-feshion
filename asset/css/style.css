@@ -1,0 +1,86 @@
+body{
+    background-color:rgb(250, 243, 243);
+}
+.logo{
+    height: 50px;
+    width: 300px;
+}
+.menu{
+    margin-top: 10px;
+}
+.header{
+    background-color:whitesmoke;
+    width: 1000px;
+    margin-left: 150px;
+}
+.header a{
+    text-decoration: none;
+    color: rgb(182, 160, 160);
+}
+.header a:hover{
+    color: rgb(0, 0, 0);
+}
+.text{
+    margin-top: 100px;
+}
+.benner{
+    background-color:rgb(241, 230, 225);
+    width: 1100px;
+    margin-left: 105px;
+
+}
+.benner h1{
+    font-size: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(240, 146, 6);
+    word-spacing: 20px;
+}
+.benner span{
+    color: rgb(12, 12, 59);
+    opacity: 70%;
+}
+.benner button{
+    border-radius: 20px;
+    padding: 20px;
+    width: 180px;
+    background-color: rgb(104, 201, 8);
+    color: aliceblue;
+}
+main .main{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(235, 222, 222);
+    border-radius: 30px;
+}
+main button{
+    border-radius: 15px;
+    padding: 20px;
+    width: 180px;
+    background-color: rgb(104, 201, 8);
+    color: aliceblue;
+}
+.men-h1{
+    margin-top: 50px;
+}
+footer .box-1{
+        background-color:white;
+        padding: 15px;
+}
+footer .box-2{
+    background-color:white;
+    margin-top: 10px;
+    padding: 15px;
+}
+footer .box-3{
+    background-color:white;
+    margin-top:10px ;
+    padding: 15px;
+}
+
+footer .footer-img{
+    height: 100px;
+}
+footer .part-1{
+    margin-top:20px ;
+    align-items: center;
+}
